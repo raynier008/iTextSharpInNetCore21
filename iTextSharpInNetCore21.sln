@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePDF", "ConsolePDF\ConsolePDF.csproj", "{0D95923C-2D47-48A2-9B93-AD7341991AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D95923C-2D47-48A2-9B93-AD7341991AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D95923C-2D47-48A2-9B93-AD7341991AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D95923C-2D47-48A2-9B93-AD7341991AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D95923C-2D47-48A2-9B93-AD7341991AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FD092E-FA7E-4823-AD0F-1F979253B127}
+	EndGlobalSection
+EndGlobal
